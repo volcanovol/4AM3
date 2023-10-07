@@ -1,0 +1,32 @@
+  @import url('https://fonts.googleapis.com/css2?family=Tajawal&display=swap');
+.tamarin{
+    font-family: 'Tajawal', sans-serif;
+}
+header ul{
+    position: relative;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+header ul li{
+    position: relative;
+    list-style: none;
+}
+header ui li a {
+    position: relative;
+    margin: 0 15px;
+    text-decoration: none;
+}
+body{
+    background-color: gray;
+}
+a{
+    color: black;
+}
+.ins{
+transition: 0.9s;
+}
+.ins:hover{
+    opacity: 0.3;
+color: white;
+}

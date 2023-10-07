@@ -1,0 +1,8 @@
+@import url('https://fonts.googleapis.com/css2?family=Tajawal&display=swap');
+*{
+    font-family: 'Tajawal', sans-serif;
+}
+body{
+    background-color: gray;
+    color: black;
+}
